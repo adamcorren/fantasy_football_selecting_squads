@@ -17,3 +17,12 @@ Step 3: Predicting clean sheets - https://github.com/adamcorren/fantasy_football
 Step 4: Predicting player points - https://github.com/adamcorren/fantasy_football_predicting_player_points
 
 Project Report - https://github.com/adamcorren/fantasy_football_project_report
+
+## License
+
+Licensed under [MIT]((https://opensource.org/license/mit/)).
+
+FPL data: https://github.com/vaastav/Fantasy-Premier-League
+
+The data used in this project is property of https://fbref.com and http://clubelo.com/
+I don't own any of the data
