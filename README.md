@@ -1,9 +1,6 @@
 # fantasy_football_selecting_squads
 FPL 5 - Incorporating player costs to optimise squad selection
 
-# fantasy_football_predicting_team_goals_bayesian_ridge_regression
-FPL 2 -Creating a BayesianRidge linear regression model to predict the number of goals a football team will score and concede in future matches.
-
 ## Other Fantasy Football repositories
 
 FBREF Football Player Data Scraper - https://github.com/adamcorren/fbref_football_player_data_scraper
