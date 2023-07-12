@@ -1,4 +1,4 @@
-# fantasy_football_selecting_squads
+# Fantasy Football: Selecting Squads
 FPL 5 - Incorporating player costs to optimise squad selection
 
 ## Other Fantasy Football repositories
